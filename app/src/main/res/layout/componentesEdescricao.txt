@@ -1,0 +1,24 @@
+#Antonio Luis Oliveira Vasconcelos
+#Carlos Cauan Novais de Oliveira
+#Felipe Augusto Vaz Araujo
+#Francisco de Assis Sousa Osorio
+
+
+
+#descricao do projeto
+ a forma de consumir música mudou ao longo dos anos e Hoje em dia, existem diversas plataformas de streaming, mas
+ muitas delas apresentam problemas como a falta de personalização, a complexidade das interfaces e a dificuldade de
+ descobrir músicas novas. Embora existam sugestões baseadas no histórico do usuário, elas frequentemente não correspondem
+ ao gosto musical em constante evolução de cada pessoa. Além disso, a maioria dos aplicativos de música oferece listas de
+ reprodução genéricas que não refletem realmente o momento ou a emoção que o usuário está sentindo. Isso faz com que a
+ experiência musical se torne repetitiva e impessoal.
+
+Outro grande desafio é a forma como as playlists são organizadas.
+Muitas pessoas ainda buscam playlists personalizadas que combinem com
+seu estilo de vida ou com momentos específicos, como treino, trabalho ou lazer,
+mas encontrar essas opções dentro dos aplicativos tradicionais pode ser uma tarefa frustrante.
+Além disso, a recomendação de músicas novas ainda depende fortemente de algoritmos que nem
+sempre entendem as nuances do gosto individual. O desejo de uma experiência musical
+mais imersiva e adaptativa é evidente, mas as soluções atuais não são suficientes para
+atender completamente essa necessidade. por isso esse projeto e uma ideia de como pode ser
+melhorado o app em algums aspectos
