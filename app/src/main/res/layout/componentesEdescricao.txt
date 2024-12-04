@@ -2,7 +2,7 @@
 #Carlos Cauan Novais de Oliveira
 #Felipe Augusto Vaz Araujo
 #Francisco de Assis Sousa Osorio
-
+#Lucas Marcelo Sousa Lopes
 
 
 #descricao do projeto
