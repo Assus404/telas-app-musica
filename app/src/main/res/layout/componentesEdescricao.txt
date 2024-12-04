@@ -1,8 +1,14 @@
+#componentes
 #Antonio Luis Oliveira Vasconcelos
 #Carlos Cauan Novais de Oliveira
 #Felipe Augusto Vaz Araujo
 #Francisco de Assis Sousa Osorio
 #Lucas Marcelo Sousa Lopes
+
+#3° Ano T.I Vespertino 
+#Disciplina: Programação para Dispositivos Móveis 
+#Professor: Bruno Vicente 
+
 
 
 #descricao do projeto
@@ -20,5 +26,6 @@ mas encontrar essas opções dentro dos aplicativos tradicionais pode ser uma ta
 Além disso, a recomendação de músicas novas ainda depende fortemente de algoritmos que nem
 sempre entendem as nuances do gosto individual. O desejo de uma experiência musical
 mais imersiva e adaptativa é evidente, mas as soluções atuais não são suficientes para
-atender completamente essa necessidade. por isso esse projeto e uma ideia de como pode ser
+atender completamente essa necessidade. po
+# isso esse projeto e uma ideia de como pode ser
 melhorado o app em algums aspectos
